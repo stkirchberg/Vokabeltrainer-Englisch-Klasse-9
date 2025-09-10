@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FDF4E2;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.links {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+}
+
+nav a {
+    flex: 1;
+    text-decoration: none;
+    color: black;
+    font-size: 1.25rem;
+    padding: 20px 0;
+    background-color: #2b64a580;
+    text-align: center;
+    transition: all 0.3s ease;
+    border-left: 1px solid #ddd;
+}
+
+nav a:first-child {
+    border-left: none;
+    border-top-left-radius: 10px;
+}
+
+nav a:last-child {
+    border-top-right-radius: 10px;
+}
+
+nav a:hover {
+    background-color: #2b64a5da;
+    color: #F6C445;
+    border-left-color: white;
+}
+
+.links::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 4px;
+    background-color: #2B63A5;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+h1 {
+    font-size: 2.4rem;
+    text-align: center;
+    margin: 25px;
+    margin-bottom: 30px;
+    line-height: 1.4;
+}
+
+h2 {
+    font-size: 1.9rem;
+    color: #2B63A5;
+    margin-top: 40px;
+    line-height: 1.4;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+    line-height: 1.4;
+}
+
+
+.theme1 {
+    padding: 25px;
+}
+
+.text {
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.level {
+    color: #F6C445;
+}
+
+.levelnoplace {
+    background-color: #E6F3EF;
+    margin: 5px;
+    padding: 10px;
+}
+
+.search-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#searchInput {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #2B63A5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #F6C445;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.highlight {
+    background-color: red;
+}
