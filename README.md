@@ -50,9 +50,7 @@ Everything else works automatically.
 Perfect for:
 - Revising before tests  
 - Learning vocabulary thematically  
-- Or, let’s say... *having a helpful reference* during class 🫢  
-
-(Just remember: knowledge stays longer when you actually study it.)
+- Or *having a helpful reference* during a test 
 
 ---
 
