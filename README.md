@@ -31,13 +31,13 @@ No frameworks. No dependencies. Just pure front-end simplicity.
 
 ## 🧭 File Overview
 
-index.html → Theme 1 vocabulary
-theme2.html → Theme 2 vocabulary
-theme3.html → Theme 3 vocabulary
-theme4.html → Theme 4 vocabulary
-styles.css → Page styling and layout
-script.js → Search functionality
-favicon.ico → Icon
+> index.html → Theme 1 vocabulary <br>
+> theme2.html → Theme 2 vocabulary <br>
+> theme3.html → Theme 3 vocabulary <br>
+> theme4.html → Theme 4 vocabulary <br>
+> styles.css → Page styling and layout <br>
+> script.js → Search functionality <br>
+> favicon.ico → Icon
 
 
 Open `index.html` in your browser and start searching.  
